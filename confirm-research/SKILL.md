@@ -8,6 +8,7 @@ description: Double-check that articles from the Internet are based on credible 
 
 - Is the vendor the main source of information? If so, look for third-party revies
 - Are the articles used to make this decision promotional comparisons without real evidence? If so, investigate the listed comptetitors at a deeper level
+- Are claims about one vendor coming from another vendor? If so, please verify the claims
 
 2. When the reasoning is done, make the following assessment
 
